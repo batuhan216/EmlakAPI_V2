@@ -1,0 +1,17 @@
+E:\Desktop\EmlakSitesi2\EmlakAPI_V2\Infrastructure\EmlakAPI_V2.Infrastructure\bin\Debug\net6.0\EmlakAPI_V2.Infrastructure.deps.json
+E:\Desktop\EmlakSitesi2\EmlakAPI_V2\Infrastructure\EmlakAPI_V2.Infrastructure\bin\Debug\net6.0\EmlakAPI_V2.Infrastructure.dll
+E:\Desktop\EmlakSitesi2\EmlakAPI_V2\Infrastructure\EmlakAPI_V2.Infrastructure\bin\Debug\net6.0\EmlakAPI_V2.Infrastructure.pdb
+E:\Desktop\EmlakSitesi2\EmlakAPI_V2\Infrastructure\EmlakAPI_V2.Infrastructure\obj\Debug\net6.0\EmlakAPI_V2.Infrastructure.csproj.AssemblyReference.cache
+E:\Desktop\EmlakSitesi2\EmlakAPI_V2\Infrastructure\EmlakAPI_V2.Infrastructure\obj\Debug\net6.0\EmlakAPI_V2.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\EmlakSitesi2\EmlakAPI_V2\Infrastructure\EmlakAPI_V2.Infrastructure\obj\Debug\net6.0\EmlakAPI_V2.Infrastructure.AssemblyInfoInputs.cache
+E:\Desktop\EmlakSitesi2\EmlakAPI_V2\Infrastructure\EmlakAPI_V2.Infrastructure\obj\Debug\net6.0\EmlakAPI_V2.Infrastructure.AssemblyInfo.cs
+E:\Desktop\EmlakSitesi2\EmlakAPI_V2\Infrastructure\EmlakAPI_V2.Infrastructure\obj\Debug\net6.0\EmlakAPI_V2.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Desktop\EmlakSitesi2\EmlakAPI_V2\Infrastructure\EmlakAPI_V2.Infrastructure\obj\Debug\net6.0\EmlakAPI_V2.Infrastructure.dll
+E:\Desktop\EmlakSitesi2\EmlakAPI_V2\Infrastructure\EmlakAPI_V2.Infrastructure\obj\Debug\net6.0\refint\EmlakAPI_V2.Infrastructure.dll
+E:\Desktop\EmlakSitesi2\EmlakAPI_V2\Infrastructure\EmlakAPI_V2.Infrastructure\obj\Debug\net6.0\EmlakAPI_V2.Infrastructure.pdb
+E:\Desktop\EmlakSitesi2\EmlakAPI_V2\Infrastructure\EmlakAPI_V2.Infrastructure\obj\Debug\net6.0\ref\EmlakAPI_V2.Infrastructure.dll
+E:\Desktop\EmlakSitesi2\EmlakAPI_V2\Infrastructure\EmlakAPI_V2.Infrastructure\bin\Debug\net6.0\EmlakAPI_V2.Application.dll
+E:\Desktop\EmlakSitesi2\EmlakAPI_V2\Infrastructure\EmlakAPI_V2.Infrastructure\bin\Debug\net6.0\EmlakAPI_V2.Domain.dll
+E:\Desktop\EmlakSitesi2\EmlakAPI_V2\Infrastructure\EmlakAPI_V2.Infrastructure\bin\Debug\net6.0\EmlakAPI_V2.Application.pdb
+E:\Desktop\EmlakSitesi2\EmlakAPI_V2\Infrastructure\EmlakAPI_V2.Infrastructure\bin\Debug\net6.0\EmlakAPI_V2.Domain.pdb
+E:\Desktop\EmlakSitesi2\EmlakAPI_V2\Infrastructure\EmlakAPI_V2.Infrastructure\obj\Debug\net6.0\EmlakAPI_V2.Infrastructure.csproj.CopyComplete

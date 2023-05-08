@@ -1,0 +1,12 @@
+E:\Desktop\EmlakSitesi2\EmlakAPI_V2\Core\EmlakAPI_V2.Domain\bin\Debug\net6.0\EmlakAPI_V2.Domain.deps.json
+E:\Desktop\EmlakSitesi2\EmlakAPI_V2\Core\EmlakAPI_V2.Domain\bin\Debug\net6.0\EmlakAPI_V2.Domain.dll
+E:\Desktop\EmlakSitesi2\EmlakAPI_V2\Core\EmlakAPI_V2.Domain\bin\Debug\net6.0\EmlakAPI_V2.Domain.pdb
+E:\Desktop\EmlakSitesi2\EmlakAPI_V2\Core\EmlakAPI_V2.Domain\obj\Debug\net6.0\EmlakAPI_V2.Domain.csproj.AssemblyReference.cache
+E:\Desktop\EmlakSitesi2\EmlakAPI_V2\Core\EmlakAPI_V2.Domain\obj\Debug\net6.0\EmlakAPI_V2.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\EmlakSitesi2\EmlakAPI_V2\Core\EmlakAPI_V2.Domain\obj\Debug\net6.0\EmlakAPI_V2.Domain.AssemblyInfoInputs.cache
+E:\Desktop\EmlakSitesi2\EmlakAPI_V2\Core\EmlakAPI_V2.Domain\obj\Debug\net6.0\EmlakAPI_V2.Domain.AssemblyInfo.cs
+E:\Desktop\EmlakSitesi2\EmlakAPI_V2\Core\EmlakAPI_V2.Domain\obj\Debug\net6.0\EmlakAPI_V2.Domain.csproj.CoreCompileInputs.cache
+E:\Desktop\EmlakSitesi2\EmlakAPI_V2\Core\EmlakAPI_V2.Domain\obj\Debug\net6.0\EmlakAPI_V2.Domain.dll
+E:\Desktop\EmlakSitesi2\EmlakAPI_V2\Core\EmlakAPI_V2.Domain\obj\Debug\net6.0\refint\EmlakAPI_V2.Domain.dll
+E:\Desktop\EmlakSitesi2\EmlakAPI_V2\Core\EmlakAPI_V2.Domain\obj\Debug\net6.0\EmlakAPI_V2.Domain.pdb
+E:\Desktop\EmlakSitesi2\EmlakAPI_V2\Core\EmlakAPI_V2.Domain\obj\Debug\net6.0\ref\EmlakAPI_V2.Domain.dll
